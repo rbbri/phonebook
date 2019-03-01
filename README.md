@@ -2,7 +2,7 @@
 
 ### Specification
 
-This application serves contact data served from an external api.
+This application displays contact data served from an external API.
 
 The contacts are searchable and sortable by name
 
